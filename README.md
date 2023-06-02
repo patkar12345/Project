@@ -1,5 +1,8 @@
-**Explortory Data Analysis IPL Match portfolio
+**Data Analysis IPL Match portfolio
 
-created Project Portfolio Report . Here in the link below you will find everything you are interested about cricket. 
+Power BI dashboard showcasing an in-depth analysis of IPL cricket seasons! 
+Here in the link below you will find everything you are interested about cricket. 
 
 https://dipnanayak.blogspot.com/
+
+Dataset Credit: Kaggle
